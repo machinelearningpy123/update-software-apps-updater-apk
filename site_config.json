@@ -1,0 +1,10 @@
+{
+  "repo_name": "update-software-apps-updater-apk",
+  "description": "Update Software Apps Updater APK Guide: Independent guide and resource site about Update Software Apps Updater APK.",
+  "visibility": "public",
+  "branch": "main",
+  "commit_message": "Initial Update Software Apps Updater APK Guide deployment",
+  "pages_source_path": "/",
+  "on_repo_exists": "suffix",
+  "open_live_url": true
+}

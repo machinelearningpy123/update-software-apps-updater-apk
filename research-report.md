@@ -1,0 +1,1 @@
+# Research Report Custom APK guide build for Update Software - Apps Updater using the provided app details, changelog, package metadata, and download link.
